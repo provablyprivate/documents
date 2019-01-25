@@ -15,4 +15,4 @@
 
 ### Preperations before next week
 * #### Read about robins article
-* #### 
+* #### Read the document about the course
