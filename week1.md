@@ -9,7 +9,7 @@ Read the robins article and read about privacy by design
 * #### Adi
 
 * #### Fredrik
-
+Prepared a quick lecture on git-usage. Read Robin's article and privacy by Design article.
 * #### Johan
 
 ### What we have done
