@@ -15,7 +15,10 @@ Time spent this week: __23h__
 
 * #### Fredrik
 Prepared a quick lecture on git-usage. Read Robin's article and privacy by Design article.
+
 * #### Johan
+Read Robin's article and a few other articles present among Robin's references. Focused mostly on articles written 
+by Daniel le Metayer.
 
 ### What we have done
 Had our first meetings, with and without the handler and also discussed what
