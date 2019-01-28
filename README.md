@@ -7,7 +7,7 @@
 
 [Link to Fredrik's timelogg](www.google.se)
 
-[Link to Johan's timelogg](www.google.se)
+[Link to Johan's timelogg](https://docs.google.com/spreadsheets/d/17eqwgJkfppPi3GeDcnbHDXuBUhg66rdkwItjfGsiiLA/edit?usp=sharing)
 
 ---
 
