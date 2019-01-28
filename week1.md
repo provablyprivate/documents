@@ -2,7 +2,7 @@
 ### 2019-01-21 -> 2019-01-28
 
 * #### Joel
-Read the robins article and read about privacy by design. Created documents in the github repository to make it easier to add information about what the individual person has done and what the group has done. Added the meetings to the calender.
+Read the robins article and read about privacy by design. Created documents in the github repository to make it easier to add information about what the individual person has done and what the group has done. Added the meetings to the calender. Resulting in 22.5 hours.
 
 * #### Robert
 Attended introductory lecture and meetings with group and supervisor. Studied Robin's article and Privacy by design in general. Refreshed my knowledge about Git and read about Scrum. Read the course guideline document.
