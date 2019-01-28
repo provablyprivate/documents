@@ -12,3 +12,5 @@
 ---
 
 [Link to report of week 1](https://github.com/provablyprivate/documents/blob/master/week1.md)
+
+[Link to report of week 2](https://github.com/provablyprivate/documents/blob/master/week2.md)
