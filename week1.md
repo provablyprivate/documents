@@ -5,6 +5,7 @@
 Read the robins article and read about privacy by design. Created documents in the github repository to make it easier to add information about what the individual person has done and what the group has done. Added the meetings to the calender.
 
 * #### Robert
+Attended introductory lecture and meetings with group and supervisor. Studied Robin's article and Privacy by design in general. Refreshed my knowledge about Git and read about Scrum. Read the course guideline document.
 
 * #### Adi
 _Note: following events happened in their mentioned order_
