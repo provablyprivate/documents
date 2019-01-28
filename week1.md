@@ -28,3 +28,5 @@ We realised we had a lot of trouble understanding Robins article. Therefore that
 ### Preperations before next week
 * #### Read about robins article
 * #### Read the document about the course
+
+### Meeting notes
