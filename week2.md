@@ -14,5 +14,3 @@
 ### What we have done
 
 ### Preperations before next week
-
-### Meeting notes

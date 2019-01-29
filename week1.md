@@ -25,8 +25,8 @@ by Daniel le Metayer.
 Had our first meetings, with and without the handler and also discussed what
 the project is about and what we are planning on doing.
 We realised we had a lot of trouble understanding Robins article. Therefore that will be the primary focus leading into week 2.
+We made our own group contract and discussed our ambitions. We agreed upon meeting tuesday 08:00-11:45 and friday 08:00-11:45 every week.
 ### Preperations before next week
 * #### Read about robins article
 * #### Read the document about the course
 
-### Meeting notes
