@@ -7,6 +7,8 @@ I have read Robins article a couple of more times. Attended all meetings includi
 * #### Robert
 
 * #### Adi
+Coordinated a meeting with Robin to clarify our projects purpose and our actual role in it. Discussed possible implementations together with the group. Also took on the responsibility to write the background and purpose of our project plan (?). Researched articles to present in the background section of the report, haven't actually started writing as of yet.
+Time: **19h**
 
 * #### Fredrik
 
