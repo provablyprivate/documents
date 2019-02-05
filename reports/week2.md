@@ -5,6 +5,7 @@
 I have read Robins article a couple of more times. Attended all meetings including the meeting with Robin. Began working on my parts of the plan-report. Documented all meeting and added all deadlines and meetings to the calender. I spent 17.5 hours this week. 
 
 * #### Robert
+Studied Robin's article in more detail. Attended the meeting with Robin, who gave valuable pointers. Started thinking about actual implementations of the method and how they can be modelled mathematically. Refreshed my knowledge about temporal logic. Attended one of the group meetings (I was ill during the other) and the meeting with the supervisor and started writing the plan report.
 
 * #### Adi
 Coordinated a meeting with Robin to clarify our projects purpose and our actual role in it. Discussed possible implementations together with the group. Also took on the responsibility to write the background and purpose of our project plan (?). Researched articles to present in the background section of the report, haven't actually started writing as of yet.
