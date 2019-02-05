@@ -5,7 +5,7 @@
 
 [Link to Adi's timelogg](https://ethercalc.org/6u2wg8ha0lps)
 
-[Link to Fredrik's timelogg](www.google.se)
+[Link to Fredrik's timelogg](https://docs.google.com/spreadsheets/d/1jXTA-3IXoOMn5WG_IGxEa_vUdxXasoNgbbI1AhF67SA/edit?usp=sharing)
 
 [Link to Johan's timelogg](https://docs.google.com/spreadsheets/d/17eqwgJkfppPi3GeDcnbHDXuBUhg66rdkwItjfGsiiLA/edit?usp=sharing)
 
