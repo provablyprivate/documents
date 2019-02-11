@@ -7,6 +7,8 @@ I have attended all meetings. Documented everything and doing secretairy work. R
 * #### Robert
 
 * #### Adi
+Caught a bad cold in the beginning of the week so haven't awfully productive. Missed the first meeting with the group and supervisor on tuesday but attended the meeting on friday. Mostly worked from home.
+Sum: __13 Hours__
 
 * #### Fredrik
 
