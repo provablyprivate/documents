@@ -17,6 +17,9 @@
 
 [Link to report of week 3](https://github.com/provablyprivate/documents/blob/master/reports/week3.md)
 
+[Link to report of week 4](https://github.com/provablyprivate/documents/blob/master/reports/week4.md)
+
+
 ---
 
 Joel Ardarve -> Saft23
