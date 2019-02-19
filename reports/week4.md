@@ -5,7 +5,7 @@
 All the focus on the planning-report. Formatted, spellchecking, writing and reading. 
 Secretaity work and documenting. 
 * #### Robert
-
+Wrote on the planning report, by myself and with the group. I mostly focused on the Background and Task sections, and also tried to reorganize the text after reading the supervisor's feedback.
 * #### Adi
 
 * #### Fredrik
