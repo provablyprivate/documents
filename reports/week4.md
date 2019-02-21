@@ -7,6 +7,7 @@ Secretaity work and documenting.
 * #### Robert
 Wrote on the planning report, by myself and with the group. I mostly focused on the Background and Task sections, and also tried to reorganize the text after reading the supervisor's feedback.
 * #### Adi
+Most of the time got spent on writing and finish up the planning report. Also spent some hours researching more previous papers on the main subject.
 
 * #### Fredrik
 
