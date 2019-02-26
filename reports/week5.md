@@ -6,6 +6,8 @@ Attended all meetings. Secretaity work and documenting. Reading about different 
 
 * #### Robert
 
+After deciding to start out the project in C++, I spent the first couple of days reading a book on the language. I did some networking tutorials for C++ and started to look into different network libraries, including Boost.Asio and Poco. I wrote a simple client/server application using sys/socket. After deciding with the group to use the Poco libraries, I spent a lot of time just to make it work properly. When I finally succeeded, I wrote some Poco applications and started to play around with them in Mininet. Then I ran Poco applications with different network topologies. I had the idea that if all traffic on the network went through a common switch, then I could run a packet sniffer there, as a basis for our third-party observer. I found this setup with Mininet convenient and decided to suggest to the group that we use it.
+
 * #### Adi
 
 * #### Fredrik
