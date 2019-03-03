@@ -12,6 +12,6 @@ Did all the secretairy work. Booked rooms. Prepared before info-meeting and "han
 * #### Johan
 
 ### What we have done
-This week we attended the two obligatory meetings where we received feedback on our planning-report and another meeting where we received more information regarding sources and how to handle them. We began working on our half-time presentation and decided that Joel and Adi will handle the halftime-presentation. 
+This week we attended the two obligatory meetings where we received feedback on our planning-report and another meeting where we received more information regarding sources and how to handle them. We began working on our half-time presentation and decided that Joel and Adi will handle the halftime-presentation. Little to no work has been done on the actual product, since all of our attention is towards the presentation and the meetings.
 
 ### Preperations before next week
