@@ -4,6 +4,7 @@
 * #### Joel
 Did all the secretairy work. Booked rooms. Prepared before info-meeting and "handledningstillfälle". I also co-created the halftime-presentation and worked on it. 
 * #### Robert
+Most of my time this week was spent on preparing for two meetings we had on Friday: the Infolabb at the library, and the Fackspråk meeting with another project group. For the former, I looked over the sources in our planning report and discussed them with the group, and for the latter I read the other group's planning report and prepared feedback with my group. On the meetings, we received useful information regarding the handling of sources, e.g. how to properly cite them, and some valuable feedback on the structure of our planning report. Additionally, I participated in preparing our half-time presentation and studied C++ some more. I did no actual work on our project, though.
 
 * #### Adi
 
