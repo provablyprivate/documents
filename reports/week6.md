@@ -7,6 +7,7 @@ Did all the secretairy work. Booked rooms. Prepared before info-meeting and "han
 Most of my time this week was spent on preparing for two meetings we had on Friday: the Infolabb at the library, and the Fackspråk meeting with another project group. For the former, I looked over the sources in our planning report and discussed them with the group, and for the latter I read the other group's planning report and prepared feedback with my group. On the meetings, we received useful information regarding the handling of sources, e.g. how to properly cite them, and some valuable feedback on the structure of our planning report. Additionally, I participated in preparing our half-time presentation and studied C++ some more. I did no actual work on our project, though.
 
 * #### Adi
+Took on the responsibility to be one of the two people who will represent our group during the half-time presentation. All my time has gone to working on things related to this: Constructing a power point, discussing relevant issues to talk about, creating a manusscript, and preparing verbally at home.
 
 * #### Fredrik
 
