@@ -8,7 +8,7 @@ Did the secretairy work. Booked rooms. Prepared for the meetings. Did the half-t
 Started the week by studying approaches to object serialization in C++, but stopped when we decided on the JSON format. Attended group meetings, our half-time presentation and five other half-time presentations. Looked into methods of formal verification of networked software to see if I could find something usable for our project. Studied Poco's JSON libraries.
 
 * #### Adi
-
+Attended the usual meetings. Did the half time presentation together with Joel. Studied Poco's JSON library and began work on a JSON parser
 * #### Fredrik
 
 * #### Johan
