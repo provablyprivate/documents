@@ -25,6 +25,9 @@
 
 [Link to report of week 7](https://github.com/provablyprivate/documents/blob/master/reports/week7.md)
 
+[Link to report of week 8](https://github.com/provablyprivate/documents/blob/master/reports/week8.md)
+
+
 
 
 
