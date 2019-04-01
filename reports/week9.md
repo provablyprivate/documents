@@ -7,6 +7,7 @@ Merged a lot of code. Documented. Booked rooms. Kept coding.
 * #### Robert
 
 * #### Adi
+Mosly focus on coding. Finished up the majority of our JSON parser/constructor. Attended the regular meetings.
 
 * #### Fredrik
 
