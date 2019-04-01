@@ -29,6 +29,8 @@
 
 [Link to report of week 9](https://github.com/provablyprivate/documents/blob/master/reports/week9.md)
 
+[Link to report of week 10](https://github.com/provablyprivate/documents/blob/master/reports/week10.md)
+
 
 
 ---
