@@ -8,6 +8,7 @@ Booked rooms, updated calenders, checked deadlines, documented, reformated my co
 * #### Robert
 
 * #### Adi
+Implemented a demo for message passing to analyze code structure and quality. Put together a potential hardware order that will be used for the final presentation.
 
 * #### Fredrik
 
