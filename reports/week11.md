@@ -2,6 +2,7 @@
 ### 2019-04-01 -> 2019-04-07
 
 * #### Joel
+Managed the calender and deadlines, booked rooms, set up meetings, documented and wrote on the method in the final paper. 
 
 * #### Robert
 
