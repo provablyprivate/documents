@@ -5,6 +5,7 @@
 Managed the calender and deadlines, booked rooms, set up meetings, documented and wrote on the method in the final paper. 
 
 * #### Robert
+I worked on our simulation. I set up an "unsafe" architecture (Fig. 1 in the paper by Adams and Schupp), to serve as the basis when we were to incorporate the type system we had been working with. This setting up involved writing agent code where the agents handle their initial types, writing a Python script using the Mininet API for creating a network emulation, and writing code for a third party that intercepts (and, at this point, just prints) all traffic on the emulated network. I also attended the second Fackspråk meeting, as well as the regular meetings with the group.
 
 * #### Adi
 
