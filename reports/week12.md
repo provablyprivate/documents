@@ -4,7 +4,7 @@
 * #### Joel
 Wrote on the report. Wrote about nested signatures, security issues, interface, c++, cryptography. Booked rooms and documented important points. 
 * #### Robert
-
+I worked on the simulation with the agents sending their messages. At first, I planned some practical details regarding the network hosts and the networked applications running on them, and asked the group if the resulting simulation structure was good. I wrote skeleton code for the agents' input and output interfaces, with the goal of connecting everything properly. At the same time, I worked on the Mininet API code for the network emulation. In doing this, I noticed some unintended behaviour in our TCP connection handling code, so I rewrote parts of it, and also did some refactoring to make it easier to work with. I also spent time merging our type handling code (i.e. the sequential communication test) with our network code.
 * #### Adi
 
 * #### Fredrik
