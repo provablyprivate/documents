@@ -33,6 +33,7 @@
 
 [Link to report of week 11](https://github.com/provablyprivate/documents/blob/master/reports/week11.md)
 
+[Link to report of week 12](https://github.com/provablyprivate/documents/blob/master/reports/week12.md)
 
 
 
