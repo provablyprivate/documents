@@ -5,6 +5,7 @@
 Created graphics for the messages passing between the Agens and how the network topology is visualized.. Wrote more on results and method.. Documented and booked rooms. 
 
 * #### Robert
+I worked on the simulation - took part in writing, testing and debugging code. Once all semantics of our sequential test program were incorporated, I sorted out software dependencies of the simulation and wrote some build instructions. When the simulation was running properly, I began fine-tuning it and added some usage options.
 
 * #### Adi
 
