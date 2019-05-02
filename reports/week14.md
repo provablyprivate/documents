@@ -7,7 +7,7 @@ Documented, booked rooms, wrote on the report, installed software.
 * #### Robert
 
 * #### Adi
-
+Not much done this week because of reexams.
 * #### Fredrik
 
 * #### Johan
