@@ -5,6 +5,7 @@
 Documented, booked rooms, wrote on the report, installed software.
 
 * #### Robert
+I attended the weekly meeting with our supervisor, and then a brief meeting with the group.
 
 * #### Adi
 Not much done this week because of reexams.
