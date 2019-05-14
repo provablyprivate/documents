@@ -6,7 +6,7 @@
 * #### Robert
 
 * #### Adi
-
+Wrote on the report all week. Mostly focused on the Result section. Did some  work on the Method section as well. Also attended the obligatory half time meeting.
 * #### Fredrik
 
 * #### Johan
