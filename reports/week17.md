@@ -7,7 +7,7 @@ Documented, booked rooms, updated the calender and spent most of my time writing
 * #### Robert
 
 * #### Adi
-Attended some meeting but spent the majority of my time on finalizing the report.
+Attended some meetings but spent the majority of my time on finalizing the report.
 
 * #### Fredrik
 
