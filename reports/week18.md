@@ -1,0 +1,18 @@
+### Weekly reports
+### 2019-06-20 -> 2019-06-26
+
+* #### Joel
+Documented, read the oppositions report and wrote my individual opposition text. 
+
+* #### Robert
+
+* #### Adi
+
+* #### Fredrik
+
+* #### Johan
+
+### What we have done
+Wrote our individual oppositions. Began thinking and working on our presentation and opposition. 
+
+### Preperations before next week
