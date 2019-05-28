@@ -45,6 +45,7 @@
 
 [Link to report of week 17](https://github.com/provablyprivate/documents/blob/master/reports/week17.md)
 
+[Link to report of week 18](https://github.com/provablyprivate/documents/blob/master/reports/week18.md)
 
 
 ---
@@ -54,8 +55,6 @@ Joel Ardarve -> Saft23
 Robert Finne -> Ausut
 
 Adi Hrustic -> adihrustic
-
-Fredrik Åberg -> feffes
 
 Johan Svennungsson -> Knya
 
