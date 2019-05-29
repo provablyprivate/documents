@@ -7,6 +7,7 @@ Documented, read the oppositions report and wrote my individual opposition text.
 * #### Robert
 
 * #### Adi
+Attended meetings, wrote "opposition report" and attended the exhibition.
 
 * #### Fredrik
 
