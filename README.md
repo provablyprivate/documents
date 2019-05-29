@@ -47,6 +47,9 @@
 
 [Link to report of week 18](https://github.com/provablyprivate/documents/blob/master/reports/week18.md)
 
+[Link to report of week 19](https://github.com/provablyprivate/documents/blob/master/reports/week19.md)
+
+[Link to report of week 20](https://github.com/provablyprivate/documents/blob/master/reports/week20.md)
 
 ---
 
