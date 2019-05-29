@@ -16,3 +16,4 @@ Attended meetings. Attended the final presentation and wrote the final evaluatio
 Presented the our work for the rest of the students and defended our thesis. We also wrote the final evaluation for the course.
 
 ### Preperations before next week
+Read through the critique on our report and finalize it.
