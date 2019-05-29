@@ -5,6 +5,7 @@
 Documented, read the oppositions report and wrote my individual opposition text. 
 
 * #### Robert
+I took part in hosting our project exhibition. I studied the final report we had been assigned to oppose, and wrote my individual opposition. I created a graphics application that shows a visual representation of our simulation, to use in the final presentation.
 
 * #### Adi
 Attended meetings, wrote "opposition report" and attended the exhibition.

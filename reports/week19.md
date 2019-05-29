@@ -4,6 +4,7 @@
 * #### Joel
 
 * #### Robert
+I prepared our final presentation with Johan, with the entire group and by myself. I held our final presentation with Johan and listened to three other final presentations.
 
 * #### Adi
 Attended meetings. Attended the final presentation and wrote the final evaluation.
